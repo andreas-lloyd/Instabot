@@ -5,3 +5,15 @@ Could try and do some A / B testing to find out what is the best hashtag (for ex
 General A / B test where we track posts and followers etc -> difficulty is in how to split because would have to do on a post by post basis
 - Maybe would need to set some kind of dynamic prior in order to see what the results "should" look like
 - Problem also in frequency, but could be a slow learning process
+
+Can we look up a user we want to follow to evaluate?
+- Check when last active
+- Check how many followers
+- This way can keep the ratio more healthy
+
+If have stories - then have connected recently
+
+Maybe strategy could be to comment / like a few times as well as follow to see if get interaction
+
+Check if they have a really bad following / follower ratio > can add to different lists of what to do with them
+- In general will have to save names because if not, then will start hitting them again
