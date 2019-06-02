@@ -1,0 +1,7 @@
+Could try and do some A / B testing to find out what is the best hashtag (for example)
+- Maybe enter a post with 50 / 50 and save info about that page to get an idea of how fair everything is?
+- Would also need some dummy comments to post, so also use those dummy comments randomly?
+
+General A / B test where we track posts and followers etc -> difficulty is in how to split because would have to do on a post by post basis
+- Maybe would need to set some kind of dynamic prior in order to see what the results "should" look like
+- Problem also in frequency, but could be a slow learning process
